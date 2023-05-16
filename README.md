@@ -1,2 +1,2 @@
 # MyBatis
-Likelion 강좌 MyBatix 예제 연습
+Likelion 강좌 MyBatis 예제 연습
